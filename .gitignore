@@ -1,5 +1,7 @@
 # Pelican
 output
+pelican.pid
+srv.pid
 
 # Python
 *.pyc
