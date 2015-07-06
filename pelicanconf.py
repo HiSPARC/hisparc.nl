@@ -7,6 +7,7 @@ SITENAME = u'HiSPARC'
 SITEURL = ''
 
 PATH = 'content'
+STATIC_PATHS = ['images', 'files']
 
 TIMEZONE = 'Europe/Paris'
 
