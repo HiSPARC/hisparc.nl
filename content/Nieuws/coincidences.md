@@ -5,7 +5,7 @@ Author: Arne de Laat
 ![coincidences page]({filename}/images/coincidences.png)
 
 Eén van de redenen dat er zoveel scholen meedoen aan het HiSPARC experiment is
-omdat je samen meer meet dan alleen. Als meedere stations verschillende delen
+omdat je samen meer meet dan alleen. Als meerdere stations verschillende delen
 van dezelfde deeltjes regen meten kunnen we meer informatie achterhalen dan
 wanneer maar één station iets meet.
 
